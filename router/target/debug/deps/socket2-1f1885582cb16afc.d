@@ -1,0 +1,11 @@
+/Users/jung-hualiu/case/crosschain/crosschain/router/target/debug/deps/socket2-1f1885582cb16afc.rmeta: /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/lib.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockaddr.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/socket.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockref.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sys/unix.rs
+
+/Users/jung-hualiu/case/crosschain/crosschain/router/target/debug/deps/libsocket2-1f1885582cb16afc.rlib: /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/lib.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockaddr.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/socket.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockref.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sys/unix.rs
+
+/Users/jung-hualiu/case/crosschain/crosschain/router/target/debug/deps/socket2-1f1885582cb16afc.d: /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/lib.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockaddr.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/socket.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockref.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sys/unix.rs
+
+/Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/lib.rs:
+/Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockaddr.rs:
+/Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/socket.rs:
+/Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockref.rs:
+/Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sys/unix.rs:

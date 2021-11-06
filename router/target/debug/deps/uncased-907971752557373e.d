@@ -1,0 +1,11 @@
+/Users/jung-hualiu/case/crosschain/crosschain/router/target/debug/deps/uncased-907971752557373e.rmeta: /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/lib.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/serde.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/owned.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/borrowed.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/as_uncased.rs
+
+/Users/jung-hualiu/case/crosschain/crosschain/router/target/debug/deps/libuncased-907971752557373e.rlib: /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/lib.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/serde.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/owned.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/borrowed.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/as_uncased.rs
+
+/Users/jung-hualiu/case/crosschain/crosschain/router/target/debug/deps/uncased-907971752557373e.d: /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/lib.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/serde.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/owned.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/borrowed.rs /Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/as_uncased.rs
+
+/Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/lib.rs:
+/Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/serde.rs:
+/Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/owned.rs:
+/Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/borrowed.rs:
+/Users/jung-hualiu/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/as_uncased.rs:
